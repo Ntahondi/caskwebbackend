@@ -1,0 +1,71 @@
+{
+  "groupName": "Juice & Smoothies",
+  "categories": [
+    {
+      "name": "Fresh Juice",
+      "items": [
+        { "name": "Cocktail Juice", "price": 7000 },
+        { "name": "Water Melon Juice", "price": 7000 },
+        { "name": "Pineapple Juice", "price": 7000 },
+        { "name": "Passion Juice", "price": 7000 },
+        { "name": "Avocado Juice", "price": 7000 },
+        { "name": "Carrot Juice", "price": 7000 },
+        { "name": "Ice Cream Juice", "price": 7000 },
+        { "name": "Mango Juice", "price": 7000 },
+        { "name": "Orange Juice", "price": 7000 },
+        { "name": "Orange Juice Jug", "price": 30000 },
+        { "name": "Dafu", "price": 5000 },
+        { "name": "Dafu Jug", "price": 30000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Smoothies",
+      "items": [
+        { "name": "Mango Smoothie", "price": 10000 },
+        { "name": "Tende Smoothie", "price": 10000 },
+        { "name": "Avocado Smoothie", "price": 10000 },
+        { "name": "Mango Passion Smoothie", "price": 10000 },
+        { "name": "Mango Shake", "price": 10000 },
+        { "name": "Banana Smoothie", "price": 10000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Mixed Juice",
+      "items": [
+        { "name": "Mango Passion", "price": 7000 },
+        { "name": "Avocado Passion", "price": 7000 },
+        { "name": "Pineapple Passion", "price": 7000 },
+        { "name": "Mango Pineapple", "price": 7000 },
+        { "name": "Mango Pineapple (Date)", "price": 7000 },
+        { "name": "Mango Pineapple (Soursop)", "price": 7000 },
+        { "name": "Avocado Mango", "price": 7000 },
+        { "name": "Carrot Tende (Date)", "price": 10000 },
+        { "name": "Banana Orange", "price": 7000 },
+        { "name": "Roselle Juice", "price": 7000 },
+        { "name": "Detox (Tango, Nanas, Tangawizi, Limao)", "price": 7000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Ice Cream Juice",
+      "items": [
+        { "name": "Mango Passion", "price": 15000 },
+        { "name": "Avocado", "price": 15000 },
+        { "name": "Mango Avocado", "price": 15000 },
+        { "name": "Mango Banana", "price": 15000 },
+        { "name": "Mango", "price": 15000 },
+        { "name": "Passion", "price": 15000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Imported Juice",
+      "items": [
+        { "name": "Cranberry", "price": 15000 }
+      ],
+      "images": []
+    }
+  ]
+}

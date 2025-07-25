@@ -1,0 +1,89 @@
+{
+  "groupName": "Coffee & Snacks Menu",
+  "categories": [
+    {
+      "name": "Coffee (Hot)",
+      "items": [
+        { "name": "Irish Coffee", "price": 15000 },
+        { "name": "Cappuccino", "price": 10000 },
+        { "name": "Cafè Latte", "price": 10000 },
+        { "name": "Latte Macchiato", "price": 10000 },
+        { "name": "Americano", "price": 10000 },
+        { "name": "Mocha Latte", "price": 10000 },
+        { "name": "Espresso", "price": 5000 },
+        { "name": "Espresso Macchiato", "price": 10000 },
+        { "name": "White Coffee", "price": 10000 },
+        { "name": "Black Coffee", "price": 10000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Coffee (Cold)",
+      "items": [
+        { "name": "Iced Latte", "price": 10000 },
+        { "name": "Iced Mocha", "price": 10000 },
+        { "name": "Iced Chocolate", "price": 10000 },
+        { "name": "Iced Macchiato", "price": 10000 },
+        { "name": "Iced Coffee", "price": 10000 },
+        { "name": "Iced Tea", "price": 10000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Hot Drinks",
+      "items": [
+        { "name": "Hot Chocolate", "price": 10000 },
+        { "name": "Hot Cocoa", "price": 10000 },
+        { "name": "Steamed Hot Milk", "price": 10000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Tea",
+      "items": [
+        { "name": "Green Tea", "price": 10000 },
+        { "name": "Black Tea", "price": 10000 },
+        { "name": "Hot Lemon", "price": 10000 },
+        { "name": "Milk Tea", "price": 10000 },
+        { "name": "Hibiscus", "price": 10000 },
+        { "name": "Peppermint Tea", "price": 10000 },
+        { "name": "Masala Tea", "price": 10000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Snacks",
+      "items": [
+        { "name": "Chapati", "price": 2000 },
+        { "name": "Pancake", "price": 2000 },
+        { "name": "Groundnuts", "price": 5000 },
+        { "name": "Cashew nuts", "price": 10000 },
+        { "name": "Popcorn Small", "price": 3000 },
+        { "name": "Popcorn Big", "price": 5000 },
+        { "name": "Samosa 3 Pcs", "price": 5000 },
+        { "name": "Crossaint 3 Pcs", "price": 5000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Ice Cream & Milk Shakes",
+      "items": [
+        { "name": "Vanilla Ice Cream", "price": 15000 },
+        { "name": "Chocolate Ice Cream", "price": 15000 },
+        { "name": "Strawberry Ice Cream", "price": 15000 },
+        { "name": "Mango Milkshake", "price": 15000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        { "name": "Cookie", "price": 5000 },
+        { "name": "Cupcake", "price": 5000 },
+        { "name": "Brownie", "price": 15000 },
+        { "name": "Black Forest", "price": 15000 }
+      ],
+      "images": []
+    }
+  ]
+}

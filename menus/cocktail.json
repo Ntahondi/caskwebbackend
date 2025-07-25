@@ -1,0 +1,122 @@
+{
+  "groupName": "Caskindar Cocktails & Mocktails",
+  "categories": [
+    {
+      "name": "Caskindar Beach Cocktails",
+      "items": [
+        {
+          "name": "Savanna Sunset",
+          "description": "Whisky, fresh passion fruit juice, lime juice, and honey syrup",
+          "price": 20000
+        },
+        {
+          "name": "Double Black Mango",
+          "description": "Whisky, fresh mango chunks, lemon juice, honey syrup, and mint leaves",
+          "price": 20000
+        },
+        {
+          "name": "Maasai Sunrise Martini",
+          "description": "Vodka, cranberry juice, passion juice, lime juice, honey syrup, angostura bitters",
+          "price": 20000
+        },
+        {
+          "name": "Tanqueray Twist",
+          "description": "Gin, tamarind juice, fresh lime juice, simple syrup, and lemon wedge",
+          "price": 20000
+        },
+        {
+          "name": "Zanzibar Spice Martini",
+          "description": "Gordon’s London Dry, dry vermouth, Zanzibar spice-infused syrup, orange bitters, orange peel",
+          "price": 20000
+        },
+        {
+          "name": "Blue Frog",
+          "description": "Vodka, white rum, triple sec, tequila, blue curaçao, and Red Bull",
+          "price": 20000
+        },
+        {
+          "name": "The Cask Kawe Beach",
+          "description": "Vodka, triple sec, and lime juice",
+          "price": 20000
+        },
+        {
+          "name": "Long Island",
+          "description": "Vodka, gin, rum, triple sec, tequila, Coca-Cola, and lime juice",
+          "price": 30000
+        },
+        {
+          "name": "Classic Mojito",
+          "description": "Bacardi white, mint leaves, brown sugar, lime slice, and soda water",
+          "price": 20000
+        },
+        {
+          "name": "Dawa",
+          "description": "Vodka, honey, and lemon",
+          "price": 20000
+        },
+        {
+          "name": "Cosmopolitan",
+          "description": "Vodka, Cointreau, cranberry juice, and freshly squeezed lime juice",
+          "price": 20000
+        }
+      ],
+      "images": []
+    },
+    {
+      "name": "Caskindar Mocktails",
+      "items": [
+        {
+          "name": "On The Beach",
+          "description": "Orange juice, cranberry juice, and lemon juice",
+          "price": 15000
+        },
+        {
+          "name": "Virgin Mojito Classic",
+          "description": "Mint leaves, Sprite, sugar syrup, and lemon juice",
+          "price": 15000
+        },
+        {
+          "name": "Mango Cooler",
+          "description": "Mango, orange juice, and sugar syrup",
+          "price": 15000
+        },
+        {
+          "name": "Caskindar No. 1",
+          "description": "Orange, strawberry syrup, Sprite, mint leaves, and lemon juice",
+          "price": 15000
+        },
+        {
+          "name": "Apple Cider Punch",
+          "description": "Apple cider, orange juice, and freshly squeezed lemon juice",
+          "price": 15000
+        },
+        {
+          "name": "Watermelon Mocktail",
+          "description": "Seedless watermelon, freshly squeezed lime juice, honey syrup, mint leaves, and club soda",
+          "price": 15000
+        },
+        {
+          "name": "Passion Mojito",
+          "description": "Mint leaves, lemon wedges, sugar syrup, and passion fruit",
+          "price": 15000
+        },
+        {
+          "name": "Virgin Pina Colada",
+          "description": "Pineapple juice and coconut cream",
+          "price": 15000
+        },
+        {
+          "name": "Syrup Iced Tea",
+          "description": "Tea bags, brown sugar, lemon slices, mint sprigs, and ice cubes",
+          "price": 15000
+        },
+        {
+          "name": "Strawberry Daiquiri",
+          "description": "Frozen strawberries, white sugar, freshly squeezed lime juice, and lemon-lime soda",
+          "price": 15000
+        }
+      ],
+      "images": []
+    }
+  ]
+}

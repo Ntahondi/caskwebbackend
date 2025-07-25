@@ -1,0 +1,119 @@
+{
+  "groupName": "Food Menu",
+  "categories": [
+    {
+      "name": "BBQ Zone (Goat)",
+      "items": [
+        { "name": "Lucas Gone Viral (LGV)", "description": "A whole goat ribs grilled in charcoal oven with lemon flavor (4 pax)", "price": 60000 },
+        { "name": "In House Style (LVG) Half", "description": "BBQ chili goat leg wrapped in aluminum foil (2-3 pax)", "price": 35000 },
+        { "name": "In House Style (LVG) Full", "description": "BBQ chili goat leg wrapped in aluminum foil (4-6 pax)", "price": 65000 },
+        { "name": "The Old School", "description": "Tender grilled goat served the old way", "price": 25000 },
+        { "name": "Flying Kick Half", "description": "Charcoal grilled goat leg (2-3 pax)", "price": 30000 },
+        { "name": "Flying Kick Full", "description": "Charcoal grilled goat leg (4-6 pax)", "price": 60000 },
+        { "name": "Slapping Cask", "description": "Charcoal grilled goat (2 pax)", "price": 50000 },
+        { "name": "Chill Blasters", "description": "Spiced BBQ goat tossed in tomato & lemon sauce", "price": 35000 },
+        { "name": "Tic Tac", "description": "Chili chops of BBQ goat tossed in green pepper, carrot & onions", "price": 35000 },
+        { "name": "High School (Kitunguu) Half", "description": "Spiced goat leg with onion, fresh lemon and chili (2-3 pax)", "price": 35000 },
+        { "name": "High School (Kitunguu) Full", "description": "Spiced goat leg with onion, fresh lemon and chili (4-6 pax)", "price": 65000 },
+        { "name": "Beef Mishikaki", "description": "Grilled beef skewers", "price": 5000 },
+        { "name": "Kitchen Chaos (Platter)", "description": "A whole grilled goat with a variety of flavors (16-24 pax)", "price": 450000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Fish",
+      "items": [
+        { "name": "Grilled Tilapia / Sato", "description": "Grilled tilapia", "price": 50000 },
+        { "name": "Grilled Sangara / Nile Perch", "description": "Grilled sangara (300g filet marinated & grilled)", "price": 45000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "The Chicken Coop",
+      "items": [
+        { "name": "Kata Pombe Half", "description": "Flavored local BBQ chicken toasted in chili onion sauce", "price": 30000 },
+        { "name": "Kata Pombe Full", "description": "Flavored local BBQ chicken toasted in chili onion sauce", "price": 60000 },
+        { "name": "Toasted Rooster Half", "description": "Grilled local chicken in a charcoal oven", "price": 30000 },
+        { "name": "Toasted Rooster Full", "description": "Grilled local chicken in a charcoal oven", "price": 60000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Main Kitchen",
+      "items": [
+        { "name": "Paprika Chicken", "price": 30000 },
+        { "name": "Full Local Fried Chicken", "price": 60000 },
+        { "name": "1/2 Local Fried Chicken", "price": 60000 },
+        { "name": "Lemon Chicken", "price": 30000 },
+        { "name": "1/2 Chicken Makange", "price": 30000 },
+        { "name": "Full Chicken Makange", "price": 60000 },
+        { "name": "Chicken Chops Half", "price": 20000 },
+        { "name": "Chicken Chops Full", "price": 40000 },
+        { "name": "1/2 Cask Roast Chicken", "price": 30000 },
+        { "name": "Full Cask Roast Chicken", "price": 60000 },
+        { "name": "Samaki Makange", "price": 50000 },
+        { "name": "Samaki Roast", "price": 50000 },
+        { "name": "Samaki Fried", "price": 50000 },
+        { "name": "Porched Fish (Chukuchuku)", "price": 60000 },
+        { "name": "Porched Fish Kama Joe", "price": 60000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Sizzlers",
+      "items": [
+        { "name": "Cask Sizzling Beef", "price": 40000 },
+        { "name": "Cask Sizzling Chicken", "price": 40000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Side Dishes",
+      "items": [
+        { "name": "Chapati", "price": 2000 },
+        { "name": "Ndizi", "price": 5000 },
+        { "name": "Plain Rice", "price": 5000 },
+        { "name": "Rice and Beans", "price": 15000 },
+        { "name": "The Cask Fried Rice", "price": 15000 },
+        { "name": "Ugali", "price": 5000 },
+        { "name": "French Fries", "price": 5000 },
+        { "name": "Chips Mayai", "price": 8000 },
+        { "name": "Stir Fried Vegetables", "price": 10000 },
+        { "name": "Chips Masala", "price": 10000 },
+        { "name": "Matoke / Plantain", "price": 8000 },
+        { "name": "Potato Wedges", "price": 5000 },
+        { "name": "Baked Sweet Potato", "price": 5000 },
+        { "name": "Swahili Salad", "price": 5000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Snacks",
+      "items": [
+        { "name": "Chicken Wings", "price": 30000 },
+        { "name": "Fish Finger", "price": 30000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Soups",
+      "items": [
+        { "name": "Vegetable Minestone Soup", "price": 20000 },
+        { "name": "Mushroom Soup", "price": 20000 },
+        { "name": "Cream Chicken Soup", "price": 20000 },
+        { "name": "1/2 Kuku / Chicken Soup", "price": 30000 },
+        { "name": "Full Kuku / Chicken Soup", "price": 60000 },
+        { "name": "Samaki / Fish Soup", "description": "Ideal for 2 people", "price": 50000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Pork Kitchen",
+      "items": [
+        { "name": "Garlic Pork", "price": 35000 },
+        { "name": "Pork Ribs", "price": 48000 }
+      ],
+      "images": []
+    }
+  ]
+}

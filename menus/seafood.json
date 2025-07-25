@@ -1,0 +1,36 @@
+{
+  "groupName": "Seafood Menu",
+  "categories": [
+    {
+      "name": "Seafood",
+      "items": [
+        {
+          "name": "King Prawns",
+          "description": "Grilled king prawns with lemon & garlic butter (400g)",
+          "price": 60000
+        },
+        {
+          "name": "Red Snapper",
+          "description": "Served with lemon garlic butter (350g)",
+          "price": 45000
+        },
+        {
+          "name": "Calamari (Grilled or Fried)",
+          "description": "Fried or grilled calamari served with tartar sauce or garlic sauce (250g)",
+          "price": 35000
+        },
+        {
+          "name": "King Fish",
+          "description": "Kingfish served with garlic sauce (350g)",
+          "price": 40000
+        },
+        {
+          "name": "Seafood Platter",
+          "description": "Mix of king prawns, red snapper, calamari, and kingfish served as your favorite",
+          "price": 100000
+        }
+      ],
+      "images": []
+    }
+  ]
+}

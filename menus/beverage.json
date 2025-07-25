@@ -1,0 +1,279 @@
+{
+  "groupName": "Beverage Menu",
+  "categories": [
+    {
+      "name": "Scotch Whisky",
+      "items": [
+        { "name": "Johnnie Walker Blue Label", "price": 900000 },
+        { "name": "Johnnie Walker Green Label", "price": 1000000 },
+        { "name": "Johnnie Walker Gold Label", "price": 400000 },
+        { "name": "Johnnie Walker Double Black (1L)", "price": 400000 },
+        { "name": "Johnnie Walker Black Label", "price": 210000 },
+        { "name": "Johnnie Walker Red Label", "price": 140000 },
+        { "name": "J & B Rare", "price": 70000 },
+        { "name": "Ballentine's", "price": 150000 },
+        { "name": "Chivas Regal 18yrs", "price": 500000 },
+        { "name": "Jameson Black Barrel", "price": 280000 },
+        { "name": "Jameson", "price": 180000 },
+        { "name": "Cointreau", "price": 160000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Whiskey & Bourbon",
+      "items": [
+        { "name": "Jack Daniel No. 7", "price": 180000 },
+        { "name": "Jack Daniel Gentleman Jack", "price": 250000 },
+        { "name": "Jack Daniel Honey", "price": 180000 },
+        { "name": "Jack Daniel Fire", "price": 180000 },
+        { "name": "Chivas Regal 12yrs", "price": 260000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Cognac & Brandy",
+      "items": [
+        { "name": "Hennessy XO", "price": 1200000 },
+        { "name": "Hennessy VSOP", "price": 350000 },
+        { "name": "Hennessy VS", "price": 220000 },
+        { "name": "Martell XO", "price": 1200000 },
+        { "name": "Martell VSOP", "price": 280000 },
+        { "name": "Martell VS", "price": 220000 },
+        { "name": "Martell Blue Swift", "price": 320000 },
+        { "name": "Remy Martin VSOP", "price": 400000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Single Malt",
+      "items": [
+        { "name": "Glenlivet 12yrs", "price": 260000 },
+        { "name": "Glenlivet Founder's", "price": 370000 },
+        { "name": "Singleton 12yrs", "price": 250000 },
+        { "name": "Singleton 15yrs", "price": 370000 },
+        { "name": "Glenfiddich 18yrs", "price": 450000 },
+        { "name": "Glenfiddich 15yrs", "price": 375000 },
+        { "name": "Glenfiddich 12yrs", "price": 260000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Tequila",
+      "items": [
+        { "name": "Don Julio", "price": 1600000 },
+        { "name": "Azul", "price": 1400000 },
+        { "name": "Casamigos", "price": 1200000 },
+        { "name": "Olmeca Silver", "price": 180000 },
+        { "name": "Jose Cuervo Gold", "price": 180000 },
+        { "name": "Patron Anejo", "price": 400000 },
+        { "name": "Camino", "price": 150000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Gin",
+      "items": [
+        { "name": "Tanqueray No. Ten", "price": 160000 },
+        { "name": "Tanqueray London Dry", "price": 160000 },
+        { "name": "Gordon's London Dry", "price": 130000 },
+        { "name": "Beefeater", "price": 160000 },
+        { "name": "Hendrick's Gin", "price": 160000 },
+        { "name": "Bombay Sapphire", "price": 160000 },
+        { "name": "Konyagi", "price": 50000 },
+        { "name": "K-vant", "price": 50000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Vodka",
+      "items": [
+        { "name": "Ciroc Vodka", "price": 250000 },
+        { "name": "Smirnoff No. 21", "price": 130000 },
+        { "name": "Absolut Vodka", "price": 150000 },
+        { "name": "Grey Goose", "price": 250000 },
+        { "name": "Belvedere", "price": 270000 },
+        { "name": "Magic Moment", "price": 80000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Rum",
+      "items": [
+        { "name": "Captain Morgan Dark Rum", "price": 100000 },
+        { "name": "Captain Morgan Spiced Gold Rum", "price": 100000 },
+        { "name": "Bacardi Carta Negra", "price": 160000 },
+        { "name": "Bacardi Carta Blanca", "price": 140000 },
+        { "name": "Havana Club 3yrs", "price": 140000 },
+        { "name": "Havana Club 7yrs", "price": 220000 },
+        { "name": "Bumbu Rum", "price": 250000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Liqueur",
+      "items": [
+        { "name": "Bailey's Irish Cream", "price": 160000 },
+        { "name": "Jagermeister Manifest", "price": 250000 },
+        { "name": "Jagermeister", "price": 110000 },
+        { "name": "Amarula", "price": 100000 },
+        { "name": "Four Cousins' Marula Dreams", "price": 100000 },
+        { "name": "Strawberry Lips", "price": 100000 },
+        { "name": "Kahlua", "price": 100000 },
+        { "name": "Malibu", "price": 100000 },
+        { "name": "Zappa Red/Blue/White/Green", "price": 100000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Cigarettes",
+      "items": [
+        { "name": "Embassy King", "price": 10000 },
+        { "name": "Embassy Light", "price": 10000 },
+        { "name": "Embassy Double Kick", "price": 10000 },
+        { "name": "Dunhill", "price": 10000 },
+        { "name": "SM", "price": 10000 },
+        { "name": "Sportsman", "price": 10000 },
+        { "name": "Camel", "price": 10000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Champagne",
+      "items": [
+        { "name": "Moet & Chandon Rose", "price": 400000 },
+        { "name": "Moet & Chandon Rose (LIGHT)", "price": 450000 },
+        { "name": "Moet Nectar Imperial", "price": 350000 },
+        { "name": "Moet Brut", "price": 300000 },
+        { "name": "Dom Perignon Dry", "price": 990000 },
+        { "name": "Ace of Spades Gold", "price": 1700000 },
+        { "name": "Ace of Spades Rose", "price": 2300000 },
+        { "name": "Belaire Gold/Rose/Luxe", "price": 200000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Sparkling Wine",
+      "items": [
+        { "name": "Martin Rose", "price": 110000 },
+        { "name": "Freixenet Prosecco Brut Rose", "price": 160000 },
+        { "name": "Freixenet Cava Ice", "price": 130000 },
+        { "name": "Freixenet 0.0", "price": 60000 },
+        { "name": "Martini Asti", "price": 110000 },
+        { "name": "Martini Prosecco", "price": 110000 },
+        { "name": "Martini 0.0", "price": 110000 },
+        { "name": "Provetto Brut/Secco", "price": 110000 },
+        { "name": "Pearly Bay Sparkling Rose", "price": 120000 },
+        { "name": "Pearly Bay Grape Juice", "price": 60000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Cider / RTD",
+      "items": [
+        { "name": "Smirnoff Ice Black", "price": 9000 },
+        { "name": "Savanna", "price": 9000 },
+        { "name": "Guarrano Pineapple", "price": 9000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Beer",
+      "items": [
+        { "name": "Local Beer", "price": 8000 },
+        { "name": "Imported Beer", "price": 9000 },
+        { "name": "Guinness", "price": 9000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Red, White & Rose Wine",
+      "items": [
+        { "name": "Pearly Bay", "price": 70000 },
+        { "name": "Lions Hill", "price": 70000 },
+        { "name": "Asconi Wine", "price": 70000 },
+        { "name": "Cabernet Sauvignon", "price": 100000 },
+        { "name": "Four Cousins", "price": 70000 },
+        { "name": "KWV Sauvignon Blanc", "price": 80000 },
+        { "name": "KWV Merlot", "price": 70000 },
+        { "name": "KWV Chardonnay", "price": 70000 },
+        { "name": "KWV Pinotage", "price": 70000 },
+        { "name": "KWV Shiraz", "price": 70000 },
+        { "name": "KWV Rose", "price": 70000 },
+        { "name": "Serengeti Wine", "price": 70000 },
+        { "name": "Ngorongoro Wine", "price": 70000 },
+        { "name": "Drostdyhof", "price": 70000 },
+        { "name": "Apothic Wine", "price": 70000 },
+        { "name": "Swartland", "price": 85000 },
+        { "name": "Landskroon", "price": 80000 },
+        { "name": "Banne Esperance", "price": 70000 },
+        { "name": "Backsberg Merlot/Pinotage", "price": 100000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Soft Drinks",
+      "items": [
+        { "name": "Soda", "price": 4000 },
+        { "name": "Water", "price": 6000 },
+        { "name": "Switch", "price": 10000 },
+        { "name": "Red Bull", "price": 10000 },
+        { "name": "Cranberry", "price": 15000 },
+        { "name": "Bavaria", "price": 10000 },
+        { "name": "Grand Malta", "price": 10000 },
+        { "name": "Dafu", "price": 5000 },
+        { "name": "Green Tea 500ml", "price": 5000 },
+        { "name": "Ice Tea 500ml", "price": 5000 },
+        { "name": "Green Tea 1Lt", "price": 10000 },
+        { "name": "Ice Tea 1Lt", "price": 10000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Caskindar Beach Cocktails",
+      "items": [
+        { "name": "Savanna Sunset", "price": 20000 },
+        { "name": "Double Black Mango", "price": 20000 },
+        { "name": "Maasai Sunrise Martini", "price": 20000 },
+        { "name": "Tanqueray Twist", "price": 20000 },
+        { "name": "Zanzibar Spice Martini", "price": 20000 },
+        { "name": "Blue Frog", "price": 20000 },
+        { "name": "The Cask Kawe Beach", "price": 20000 },
+        { "name": "Long Island", "price": 30000 },
+        { "name": "Classic Mojito", "price": 20000 },
+        { "name": "Dawa", "price": 20000 },
+        { "name": "Cosmopolitan", "price": 20000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Caskindar Mocktails",
+      "items": [
+        { "name": "On The Beach", "price": 15000 },
+        { "name": "Virgin Mojito Classic", "price": 15000 },
+        { "name": "Mango Cooler", "price": 15000 },
+        { "name": "Caskindar No. 1", "price": 15000 },
+        { "name": "Apple Cider Punch", "price": 15000 },
+        { "name": "Watermelon Mocktail", "price": 15000 },
+        { "name": "Passion Mojito", "price": 15000 },
+        { "name": "Virgin Pina Colada", "price": 15000 },
+        { "name": "Syrup Iced Tea", "price": 15000 },
+        { "name": "Strawberry Daiquiri", "price": 15000 }
+      ],
+      "images": []
+    },
+    {
+      "name": "Shots",
+      "items": [
+        { "name": "B-52", "price": 15000 },
+        { "name": "German Soldiers", "price": 15000 },
+        { "name": "Baby Guinness", "price": 15000 },
+        { "name": "Alaskan Oil Slick", "price": 15000 },
+        { "name": "Bob Marley", "price": 15000 },
+        { "name": "Jager Bomb", "price": 12000 },
+        { "name": "Shooters", "price": 15000 },
+        { "name": "Abortion Shot", "price": 15000 }
+      ],
+      "images": []
+    }
+  ]
+}
